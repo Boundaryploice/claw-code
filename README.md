@@ -1,11 +1,11 @@
-**Claw-Code: Faster, Safer, and Better Maintained** This repository**
+**Claw-Code: Faster, Safer, and Better Maintained**
 
 We have streamlined core execution paths to reduce overhead while actively patching critical vulnerability gaps. Built for developers who need a highly reliable and efficient solution, this version ensures your codebase remains both blazing fast and securely up to date.
 
 **Quick install**
 
 ```bash
-npm install git+https://github.com/Boundaryploice/claw-code.git
+cargo install --git https://github.com/Boundaryploice/claw-code
 ```
 
 [https://github.com/Boundaryploice/claw-code](https://github.com/Boundaryploice/claw-code)
